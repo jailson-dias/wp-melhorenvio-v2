@@ -290,6 +290,7 @@ final class Base_Plugin
             $methods['melhorenvio_azul_ecommerce']  = 'WC_Melhor_Envio_Shipping_Azul_Ecommerce';
             $methods['melhorenvio_correios_mini']  = 'WC_Melhor_Envio_Shipping_Correios_Mini';
             $methods['melhorenvio_buslog_rodoviario']  = 'WC_Melhor_Envio_Shipping_Buslog_Rodoviario';
+            $methods['melhorenvio_tsp_express']  = 'WC_Melhor_Envio_Shipping_TSP_Express';
             return $methods;
         });
 

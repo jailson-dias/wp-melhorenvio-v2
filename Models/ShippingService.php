@@ -12,6 +12,8 @@ class ShippingService {
 
 	const SERVICES_VIA_BRASIL = array( 9 );
 
+	const TSP_EXPRESS = array( 95 );
+
 	const CORREIOS_PAC = 1;
 
 	const CORREIOS_SEDEX = 2;
